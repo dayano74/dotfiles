@@ -2,7 +2,8 @@
 
 ### Git command aliases
 
-1. Add .gitconfig.aliases to your global Git configuration (`~/.gitconfig`). \
+1. Add .gitconfig.aliases to home directory(`~/.gitconfig.aliases`).
+Add .gitconfig.aliases to your global Git configuration (`~/.gitconfig`).\
 From the terminal:
 ```bash
 git config --global include.path ~/.gitconfig.aliases
